@@ -5,10 +5,8 @@ SOBRE MIM:
 Sou um apaixonado por tecnologia, jogos e cultura nerd em geral. Meu primeiro contato com programação foi em 2014, quando tive a oportunidade de estudar em uma escola especializada em tecnologia. Apesar de ter gostado da área, só comecei a dar o devido foco em 2021, quando comecei a estudar por conta própria através de diversos cursos que mantenho até os dias atuais, tendo em mente que estamos sempre em constante aprendizado.
 <br><br>
 
-<div>
-  <a href="https://github.com/vitorsoaresdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorsoaresdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorsoaresdev&show_icons=true&theme=tokyonight)
+
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
